@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de482c3e-956b-4360-8590-b0d2613339b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/fonts/PragmaticaSlab-Bold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PragmaticaSlab-Bold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/PragmaticaSlab-Book.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PragmaticaSlab-Book.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/PragmaticaSlab-ExtraBold.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PragmaticaSlab-ExtraBold.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/PragmaticaSlab-ExtraLight.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PragmaticaSlab-ExtraLight.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/PragmaticaSlab-Light.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PragmaticaSlab-Light.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/PragmaticaSlab-Medium.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/fonts/PragmaticaSlab-Medium.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/common.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/common.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.min.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ioAoIeltnVlHqgMCZqkEqBA64m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de482c3e-956b-4360-8590-b0d2613339b6" name="Default Changelist" comment="" />
+      <created>1602563744523</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602563744523</updated>
+      <workItem from="1602563748562" duration="855000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
